@@ -10,10 +10,10 @@ Example:
 
 pch.h
 
+#ifndef PCH_H
 #define PCH_H
-#endif #PCH_H
 
-// files needed
+//files needed
 #include <iostream>
 #include <string>
 #include <iomanip>
